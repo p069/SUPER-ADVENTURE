@@ -1,3 +1,2 @@
-# SUPER-ADVENTURE
-A web based game mimicking flappy bird. Hosted on Vercel
+# SuperGTAAdventure
 https://super-gta-adventure.vercel.app/
