@@ -1,42 +1,40 @@
 canvas {
-  margin-left: 300px;
-    border:1px solid #d3d3d3;
-    background-image: url("https://i.imgur.com/rdgmZTo.gif?noredirect");
+    margin-left: 300px;
+    border: 1px solid #d3d3d3;
+    background-image: url("https://i.imgur.com/rdgmZTo.gif");
     background-repeat: no-repeat;
     background-size: 1000px;
-}
-#HighScore {
-  margin-top: 150px;
-}
-@keyframes bgcolor {
+  }
+  
+  #HighScore {
+    margin-top: 150px;
+  }
+  
+  @keyframes bgcolor {
     0% {
-        background-color: lightblue
+      background-color: lightblue;
     }
-
     20% {
-        background-color: aqua
+      background-color: aqua;
     }
-
     40% {
-        background-color: greenyellow
+      background-color: greenyellow;
     }
-
     50% {
-        background-color: yellow
+      background-color: yellow;
     }
-
     60% {
-        background-color: orange
+      background-color: orange;
     }
-
     80% {
-        background-color: red
+      background-color: red;
     }
-
     100% {
-        background-color: purple
+      background-color: purple;
     }
-}
-body {
+  }
+  
+  body {
     animation: bgcolor 5s infinite;
-}
+  }
+  
